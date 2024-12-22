@@ -36,7 +36,7 @@ app.get('/', (req, res) => {
 
 app.listen(3000)
 ```
-
+m1s6ah
 ## Installation
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
